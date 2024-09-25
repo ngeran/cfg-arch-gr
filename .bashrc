@@ -1,0 +1,1 @@
+/home/ngeran/.local/share/mybash/.bashrc
